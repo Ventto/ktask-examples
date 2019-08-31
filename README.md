@@ -7,7 +7,7 @@ Kernel Tasks
 
 Compiled from a kernel 4.19.x on a x86\_64 platform.
 
-```
-$ make KDIR=... modules
+```ssh
+$ make KDIR=...
 $ make KDIR=... clean
 ```
